@@ -2,7 +2,7 @@
 
 ## 1. Подготовить архитектуру
 
-Этапы 1-9 из (инструкции)[https://yandex.cloud/ru/docs/managed-kafka/tutorials/data-processing] были сделаны ранее.
+Этапы 1-9 из [инструкции](https://yandex.cloud/ru/docs/managed-kafka/tutorials/data-processing) были сделаны ранее.
 
 Создание кластера Apache Kafka:
 
